@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ab1_loc">24</dimen>
+    <dimen name="ab2_loc">26</dimen>
+    <dimen name="ab3_loc">32</dimen>
+    <dimen name="ab4_loc">31</dimen>
+    <dimen name="ab5_loc">26</dimen>
+    <dimen name="ab6_loc">38</dimen>
+</resources>

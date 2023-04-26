@@ -14,7 +14,7 @@
         android:theme="@style/Theme.LearnCompose"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".MyIdCardActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.LearnCompose">
@@ -24,6 +24,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".MainActivity"/>
         <activity android:name=".SingleActivity"/>
     </application>
 

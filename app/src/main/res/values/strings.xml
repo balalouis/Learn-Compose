@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Learn-Compose</string>
+    <string name="ab1_inversions">Inversions</string>
+    <string name="ab2_quick_yoga">Quick yoga</string>
+    <string name="ab3_stretching">Stretching</string>
+    <string name="ab4_tabata">Tabata</string>
+    <string name="ab5_hiit">HIIT</string>
+    <string name="ab6_pre_natal_yoga">Pre-natal yoga</string>
+
+    <string name="ab1_loc">Andhra</string>
+    <string name="ab2_loc">London</string>
+    <string name="ab3_loc">Kerala</string>
+    <string name="ab4_loc">Delhi</string>
+    <string name="ab5_loc">Coimbatore</string>
+    <string name="ab6_loc">Pune</string>
 </resources>
